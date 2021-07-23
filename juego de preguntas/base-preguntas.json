@@ -1,0 +1,39 @@
+[
+    {
+        "categoria":"informatica",
+        "pregunta":"¿cual es el componente encargado de la ejecucion de las instrucciones de los programas?1",
+        "respuesta":"procesador",
+        "incorrecta1":"tarjeta grafica",
+        "incorrecta2":"fuente de alimentacion",
+        "incorrecta3":"memoria ram",
+        "imagen":"pregunta1.png",
+        "object_fit":"cover"
+    },
+    {
+        "categoria":"informatica",
+        "pregunta":"¿cual es el componente encargado del procesamiento de datos de la CPU y transformarlos en informacion comprensible y representable en el dispositivo de salida",
+        "respuesta":"tarjeta grafica",
+        "incorrecta1":"procesador",
+        "incorrecta2":"fuente de alimentacion",
+        "incorrecta3":"memoria ram",
+        "object_fit":"cover"
+    },
+    {
+        "categoria":"informatica",
+        "pregunta":"¿cual es el componente encargado de convertir la conrriente en una forma continua de energia que los componentes del ordenador necesitan para funcionar",
+        "respuesta":"fuente de alimentacion",
+        "incorrecta1":"tarjeta grafica",
+        "incorrecta2":"procesador",
+        "incorrecta3":"memoria ram",
+        "object_fit":"cover"
+    },
+    {
+        "categoria":"informatica",
+        "pregunta":"¿cual es el componente encargado de almacenar de forma temporal datos de los programas que estas utilizando",
+        "respuesta":"memoria ram",
+        "incorrecta1":"tarjeta grafica",
+        "incorrecta2":"fuente de alimentacion",
+        "incorrecta3":"procesador",
+        "object_fit":"cover"
+    }
+]
